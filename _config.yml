@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 title: Mahmoud Albardan homepage
 description: Bookmark this to keep an eye on my project updates!
 lsi: false
@@ -11,3 +11,5 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+  
+remote_theme: alshedivat/al-folio
