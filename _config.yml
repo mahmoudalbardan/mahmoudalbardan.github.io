@@ -12,4 +12,4 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
   
-remote_theme: alshedivat/al-folio
+remote_theme: al-folio
